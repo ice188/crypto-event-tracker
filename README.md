@@ -8,13 +8,9 @@
   </a>
 
   <p align="center"><br />
-    Full-stack ecommerce web app built from scrtach with <br />
-    React, Tailwind CSS, Express.js, PostgresSQL, Docker
+    Real-time cryptocurrency tracking and alert system using microservices to deliver notifications and data analysis.
     <br />
     <br />
-  <a href="https://ebuyx.onrender.com">
-    Project deployed on render >>
-  </a>
   </p>
 </div>
 
