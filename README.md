@@ -22,6 +22,7 @@
 - PostgreSQL ORM for storing OAuth user data and alert data
 - RabbitMQ to store triggered alerts in queue structure
 - Firebase Cloud Messaging to process triggered alerts and push notification to client's browser
+- Fully responsive frontend with React and TailwindCSS
 
 ## Features
 
