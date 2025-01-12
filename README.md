@@ -38,10 +38,7 @@
   - work flow: kafka produce api data from coinGecko API and publish to topic, consumer process data and store result to firebase. Frontend reads data from firebase
 
 <div align="middle">
-  <img src="img/product-list.png" width="300" />
-  <img src="img/product-detail.png" width="300" /> 
-  <img src="img/review-list.png" width="300" /> 
-  <img src="img/write-review.png" width="300" /> 
+  <img src="img/crypto-list.png" width="300" />
 </div>
 
 - Crypto Detail
