@@ -16,12 +16,10 @@
 
 ## Project Highlight
 
-- realtime streaming of crypto data from CoinGecko API using Kafka producer and consumer nodes
-- fully scalable microservice architecture
+- Apache Kafka for realtime streaming of crypto data from CoinGecko API 
 - AWS S3 to archive price and volume data and display in interactive charts
 - Firebase Realtime database to synchronize API data in crypto list every 10 seconds
-- PostGresSQL ORM for storing OAuth user data and alert data
-- automated CI/CD pipeline using Docker and Github Actions
+- PostgreSQL ORM for storing OAuth user data and alert data
 - RabbitMQ to store triggered alerts in queue structure
 - Firebase Cloud Messaging to process triggered alerts and push notification to client's browser
 
